@@ -174,7 +174,7 @@ function Calculate(a: IShape, b: IShape): Collision | undefined {
     // Build a new Simplex for determining if a collision has occurred
     const simplex = new Simplex();
 
-    // Choose the starting direction as from A center to B center
+    // Choose an arbitrary starting direction
     let direction: Vector | undefined = new Vector(0,1);
 
     // Get the first support point and add it to the simplex
