@@ -1,0 +1,16 @@
+{
+  "name": "gjk-ts-implementation",
+  "version": "1.0.0",
+  "description": "GJK collision detection TypeScript implementation.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node lib/index.js"
+  },
+  "author": "Jamie Thompson <j.thomperoo@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
