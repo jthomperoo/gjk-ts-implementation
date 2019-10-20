@@ -1,5 +1,5 @@
 # Gilbert-Johnson-Keerthi 2D TypeScript implementation
-
+This code accompanies this post: [https://jamiethompson.me/posts/GJK-Collision-Detection/](https://jamiethompson.me/posts/GJK-Collision-Detection/){:target="_blank"}  
 The code is verbosely commented in order to be read directly.
 
 ## Running
